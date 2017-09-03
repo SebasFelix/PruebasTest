@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    //"test": "npm install -g mocha mocha",
+    "test": "npm install -g mocha mocha",
     "cover": "istanbul cover _mocha",
     "build": "node_modules/babel-cli/bin/babel.js ./ --source-maps --out-dir dist",
     "start": "node_modules/nodemon/bin/nodemon.js -- node_modules/babel-cli/bin/babel-node.js server.js",
