@@ -7,7 +7,7 @@ Clone the repo:
 ```
 git clone https://github.com/guillermoap/quizzy-backend.git
 ```
-https://travis-ci.org/SebasFelix/PruebasTest.svg?branch=master
+[![Build Status](https://travis-ci.org/SebasFelix/PruebasTest.svg?branch=master)](https://travis-ci.org/SebasFelix/PruebasTest)
 ```
 Access folder:
 ```
