@@ -1,8 +1,0 @@
-lenguaje: node.js
-node.js:
-  -"3.5.0"
-addons:
-  artifacts:
-    paths:
-      - .karma/
-      - ./mocha.js
