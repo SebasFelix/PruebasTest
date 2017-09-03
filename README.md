@@ -1,7 +1,7 @@
 # quizzy-backend
+[![Build Status](https://travis-ci.org/SebasFelix/PruebasTest.svg?branch=master)](https://travis-ci.org/SebasFelix/PruebasTest)
 
 Backend repository for the Quizzy Project. PIS 2017 Facultad de Ingeniería, UdelaR.
-[![Build Status](https://travis-ci.org/SebasFelix/PruebasTest.svg?branch=master)](https://travis-ci.org/SebasFelix/PruebasTest)
 
 ## Getting Started
 Clone the repo:
