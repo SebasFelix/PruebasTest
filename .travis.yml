@@ -1,4 +1,4 @@
-lenguaje: node.js
+lenguage: node.js
 node.js:
   -"3.5.0"
 addons:
