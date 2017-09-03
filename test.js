@@ -25,7 +25,7 @@ describe('Usuarios', function () {
     expect(this.body).to.not.include('"email": "sebas@pis.com"');
   });
 });
-describe('Pagina', function () {  
+describe('pagina', function () {  
   web.save('http://localhost:3000/user');
   //obtengo la pagina user
   it('Codigo de estado debe ser 404 y sin errores', function () {
@@ -35,5 +35,4 @@ describe('Pagina', function () {
     //compruebo codigo de estado
   });
 });
-
 
