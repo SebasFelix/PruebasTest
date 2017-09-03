@@ -7,6 +7,8 @@ Clone the repo:
 ```
 git clone https://github.com/guillermoap/quizzy-backend.git
 ```
+https://travis-ci.org/SebasFelix/PruebasTest.svg?branch=master
+```
 Access folder:
 ```
 cd quizzy-backend
