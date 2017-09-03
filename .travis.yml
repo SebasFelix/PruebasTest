@@ -4,5 +4,4 @@ node.js:
 addons:
   artifacts:
     paths:
-      - .karma/
       - ./mocha.js
